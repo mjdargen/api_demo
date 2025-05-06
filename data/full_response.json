@@ -1,0 +1,16 @@
+{
+  "args" : {
+    "limit" : "20",
+    "page" : "1"
+  },
+  "headers" : {
+    "Accept" : "application/json",
+    "Accept-Language" : "en-US",
+    "Authorization" : "Bearer abc123",
+    "Host" : "httpbin.org",
+    "User-Agent" : "Java-http-client/21.0.4",
+    "X-Amzn-Trace-Id" : "Root=1-681a3f0b-6ed18de67e946b0c7d960406"
+  },
+  "origin" : "204.85.24.5",
+  "url" : "https://httpbin.org/get?limit=20&page=1"
+}

@@ -1,0 +1,18 @@
+{
+  "args" : { },
+  "data" : "",
+  "files" : { },
+  "form" : { },
+  "headers" : {
+    "Accept" : "application/json",
+    "Authorization" : "Bearer abc123",
+    "Content-Type" : "application/json",
+    "Custom-Header" : "value",
+    "Host" : "httpbin.org",
+    "User-Agent" : "Java-http-client/21.0.4",
+    "X-Amzn-Trace-Id" : "Root=1-681a3f19-60aec99a03cedb724b0c003e"
+  },
+  "json" : null,
+  "origin" : "204.85.24.5",
+  "url" : "https://httpbin.org/post"
+}

@@ -1,0 +1,11 @@
+{
+  "args" : { },
+  "headers" : {
+    "Accept" : "application/json",
+    "Host" : "httpbin.org",
+    "User-Agent" : "Java-http-client/21.0.4",
+    "X-Amzn-Trace-Id" : "Root=1-681a3efd-0258e0096612909b59bd65ef"
+  },
+  "origin" : "204.85.24.5",
+  "url" : "https://httpbin.org/get"
+}

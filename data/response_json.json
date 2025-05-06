@@ -1,0 +1,20 @@
+{
+  "args" : { },
+  "data" : "{\"name\":\"JTodd\",\"age\":100}",
+  "files" : { },
+  "form" : { },
+  "headers" : {
+    "Accept" : "application/json",
+    "Content-Length" : "26",
+    "Content-Type" : "application/json",
+    "Host" : "httpbin.org",
+    "User-Agent" : "Java-http-client/21.0.4",
+    "X-Amzn-Trace-Id" : "Root=1-681a3f54-1d5d17247dba195a5e276a44"
+  },
+  "json" : {
+    "age" : 100,
+    "name" : "JTodd"
+  },
+  "origin" : "204.85.24.5",
+  "url" : "https://httpbin.org/post"
+}
