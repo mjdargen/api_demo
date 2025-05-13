@@ -399,7 +399,3 @@ if (json.has("error")) {
   System.out.println("Error: " + json.get("error").asText());
 }
 ```
-
-<br>
-
-Let me know if you'd like this exported to a printable format or converted to slides.
