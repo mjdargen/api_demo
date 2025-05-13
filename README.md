@@ -80,8 +80,6 @@ Jackson is a Java library used to convert between Java objects and JSON. It hand
 
    Or you can do it via the GUI in VScode
 
-4. **Add `Requests.java` to Your `src/main/java/...` Folder**
-
 **If you're not using Maven:**
 
 Download the following JAR files and add them to your classpath:
@@ -91,6 +89,8 @@ Download the following JAR files and add them to your classpath:
 - `jackson-annotations`
 
 You can find them at: [https://mvnrepository.com](https://mvnrepository.com)
+
+4. **Add `Requests.java` to Your `src/main/java/...` Folder**
 
 <br>
 
